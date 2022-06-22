@@ -11,6 +11,15 @@
 - [Tests](#tests)
 - [License](#license)
 
+##  MOCK
+
+![Note Taker - Google Chrome 2022-06-21 11_57_20 PM](https://user-images.githubusercontent.com/101309301/174964941-67ef2958-21c1-45cc-ab62-c43ff00d2dc7.png)
+
+
+
+![Note Taker - Google Chrome 2022-06-21 11_59_40 PM](https://user-images.githubusercontent.com/101309301/174964904-a05d0439-d136-464f-9c75-cfff4057da54.png)
+
+
 ## Description
 
 An application for note taking that is created using Express.js
