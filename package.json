@@ -1,0 +1,29 @@
+{
+  "name": "app.json",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "SERVER.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBulsara/NOTE-TAKER.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBulsara/NOTE-TAKER/issues"
+  },
+  "homepage": "https://github.com/JBulsara/NOTE-TAKER#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6"
+  },
+  "keywords": [
+    "clear"
+  ]
+}
