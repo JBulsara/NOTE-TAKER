@@ -19,6 +19,9 @@
 
 ![Note Taker - Google Chrome 2022-06-21 11_59_40 PM](https://user-images.githubusercontent.com/101309301/174964904-a05d0439-d136-464f-9c75-cfff4057da54.png)
 
+![Note Taker - Google Chrome 2022-06-22 12_07_34 AM (1)](https://user-images.githubusercontent.com/101309301/174965949-b5a9e67a-913f-4800-8ccd-c7b523b5dc54.png)
+
+
 
 ## Description
 
